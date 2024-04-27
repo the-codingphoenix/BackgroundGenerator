@@ -1,0 +1,8 @@
+@media (max-width: 680px) {
+    h1 {
+        font: 600 2em 'Montserrat', sans-serif;
+    }
+    h3 {
+        font: 900 .6em 'Montserrat', sans-serif;
+    }
+}
